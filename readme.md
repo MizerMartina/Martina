@@ -1,1 +1,2 @@
 Poy ljudi
+Kako tvoji?
