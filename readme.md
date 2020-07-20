@@ -1,2 +1,2 @@
-Poy ljudi
-Kako tvoji?
+Poy ljudi!
+Pisem vam iz grane.
