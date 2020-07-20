@@ -1,2 +1,2 @@
 Poy ljudi!
-Pisem vam iz grane.
+Pisem vam iz Master grane.
